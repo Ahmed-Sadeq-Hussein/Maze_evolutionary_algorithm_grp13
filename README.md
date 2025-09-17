@@ -1,1 +1,1 @@
-# Maze_evolutionary_algorithm_grp13
+# Evolutionary_algorithm_grp13
